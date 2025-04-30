@@ -2,7 +2,7 @@
 
 I work as `Developer` and `Designer` in the following projects
 
-- [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj?cid=githubprofilepage) - a modern IPTV app on Windows and Xbox
+- [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj?cid=githubprofilepage) - a modern IPTV app on Windows, iOS, iPadOS and Xbox
 - [Podcasted](https://apps.microsoft.com/detail/9nxwgr2b1p26?cid=githubprofilepage) - a native Windows/Xbox podcast app
 
 ## Professional skills
